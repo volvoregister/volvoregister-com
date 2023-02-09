@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-08T22:52:44+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SAABregister.com</title><subtitle>We believe that every SAAB is one-of-a-kind and deserves to be recognized by its peers. The SAAB Register serves as a resource for SAAB enthusiasts to obtain additional information about specific models.</subtitle><entry><title type="html">Saab 900 Silver Arrow</title><link href="http://localhost:4000/SAAB-900-Silver-Arrow/" rel="alternate" type="text/html" title="Saab 900 Silver Arrow" /><published>2023-02-08T21:42:51+01:00</published><updated>2023-02-08T21:42:51+01:00</updated><id>http://localhost:4000/SAAB-900-Silver-Arrow</id><content type="html" xml:base="http://localhost:4000/SAAB-900-Silver-Arrow/"><![CDATA[<h1 id="saab-900-silver-arrow">SAAB 900 Silver Arrow</h1>
+
+<p>The SAAB 900 Silver Arrow was introduced in</p>
+
+<p><img src="/assets/images/900_silver_arrow/header.png" alt="SAAB 900 Silver Arrow" title="SAAB 900 Silver Arrow" /></p>
+
+<h1 id="specifications">Specifications</h1>
+
+<h1 id="register">Register</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Brand</th>
+      <th>Type</th>
+      <th>Edition</th>
+      <th>#</th>
+      <th>Registration plate</th>
+      <th>State</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SAAB</td>
+      <td>900</td>
+      <td>Silver Arrow</td>
+      <td>46</td>
+      <td>XX-01-YY</td>
+      <td>Daily driver</td>
+    </tr>
+    <tr>
+      <td>SAAB</td>
+      <td>900</td>
+      <td>Silver Arrow</td>
+      <td>89</td>
+      <td>ZZ-99-RT</td>
+      <td>Recycled</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><summary type="html"><![CDATA[SAAB 900 Silver Arrow]]></summary></entry></feed>
