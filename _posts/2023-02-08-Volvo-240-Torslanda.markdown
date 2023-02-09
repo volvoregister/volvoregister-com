@@ -4,7 +4,7 @@ title:  Volvo 240 Torslanda
 date:   2023-02-08 21:42:51 +0100
 categories:
 ---
-# Volvo 240
+# Volvo 240 Torslanda
 
 The Volvo 240 Torslanda Special Edition was a limited-edition model of the classic Volvo 240 Torslanda, produced at the Torslanda factory in Sweden. This special edition model was released to celebrate the 10th anniversary of the popular 240 series and offered a range of exclusive features and upgrades.
 
